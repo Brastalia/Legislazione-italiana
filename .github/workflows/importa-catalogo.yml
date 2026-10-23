@@ -1,0 +1,33 @@
+name: Importa catalogo verificato
+on:
+  workflow_dispatch:
+    inputs:
+      catalogo:
+        description: 'Percorso del JSONL presente nel repository (es. import/inbox.jsonl)'
+        required: true
+        default: 'import/inbox.jsonl'
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Importa
+        env:
+          CATALOGO: ${{ inputs.catalogo }}
+        run: |
+          test -f "$CATALOGO"
+          python scripts/importa_jsonl.py "$CATALOGO"
+      - name: Commit risultati
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add nazionale regioni
+          if ! git diff --cached --quiet; then
+            git commit -m "Importa schede legislative verificate"
+            git push
+          fi
