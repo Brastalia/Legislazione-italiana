@@ -1,0 +1,25 @@
+name: Monitor fonti ufficiali
+on:
+  schedule:
+    - cron: '23 5 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/verifica_fonti.py
+      - name: Commit report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dati/stato-fonti.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Monitor disponibilità fonti ufficiali"
+            git push
+          fi
