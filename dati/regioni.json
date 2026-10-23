@@ -1,0 +1,30 @@
+{
+  "regioni": [
+    "abruzzo",
+    "basilicata",
+    "calabria",
+    "campania",
+    "emilia-romagna",
+    "friuli-venezia-giulia",
+    "lazio",
+    "liguria",
+    "lombardia",
+    "marche",
+    "molise",
+    "piemonte",
+    "puglia",
+    "sardegna",
+    "sicilia",
+    "toscana",
+    "trentino-alto-adige",
+    "umbria",
+    "valle-d-aosta",
+    "veneto"
+  ],
+  "province_autonome": [
+    "trento",
+    "bolzano"
+  ],
+  "catalogo_ufficiale": "https://www.normattiva.it/legislazioneRegionale",
+  "nota": "Le banche dati regionali sono gestite dalle rispettive istituzioni."
+}
