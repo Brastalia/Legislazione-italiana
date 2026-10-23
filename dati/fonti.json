@@ -1,0 +1,20 @@
+{
+  "nazionale": [
+    {
+      "nome": "Normattiva",
+      "url": "https://www.normattiva.it/"
+    },
+    {
+      "nome": "Normattiva Open Data",
+      "url": "https://dati.normattiva.it/"
+    },
+    {
+      "nome": "Gazzetta Ufficiale",
+      "url": "https://www.gazzettaufficiale.it/"
+    }
+  ],
+  "regioni": {
+    "catalogo": "https://www.normattiva.it/legislazioneRegionale"
+  },
+  "stato": "connettori da verificare"
+}
