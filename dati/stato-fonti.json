@@ -1,0 +1,30 @@
+{
+  "controllato_utc": "2026-10-24T09:38:24.952639+00:00",
+  "fonti": [
+    {
+      "fonte": "normattiva",
+      "url": "https://www.normattiva.it/",
+      "status": 200,
+      "raggiungibile": true
+    },
+    {
+      "fonte": "open-data",
+      "url": "https://dati.normattiva.it/",
+      "status": 200,
+      "raggiungibile": true
+    },
+    {
+      "fonte": "gazzetta-ufficiale",
+      "url": "https://www.gazzettaufficiale.it/",
+      "status": 200,
+      "raggiungibile": true
+    },
+    {
+      "fonte": "legislazione-regionale",
+      "url": "https://www.normattiva.it/legislazioneRegionale",
+      "status": 200,
+      "raggiungibile": true
+    }
+  ],
+  "nota": "Monitor disponibilità, NON aggiornamento delle leggi"
+}
