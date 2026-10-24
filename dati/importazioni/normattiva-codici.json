@@ -1,0 +1,407 @@
+{
+  "collezione": "Codici",
+  "acquisizione_utc": "2026-10-24T17:48:17.652765+00:00",
+  "numero_file": 40,
+  "atti": [
+    {
+      "tipo_originale": "REGIO DECRETO",
+      "data_emanazione": "19301019",
+      "numero": "1398",
+      "file_originale": "REGIO DECRETO_19301019_1398/1930-10-26_030U1398_ORIGINALE_V0.json",
+      "byte": 949926,
+      "crc32": 930650413,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "REGIO DECRETO",
+      "data_emanazione": "19401028",
+      "numero": "1443",
+      "file_originale": "REGIO DECRETO_19401028_1443/1940-10-28_040U1443_ORIGINALE_V0.json",
+      "byte": 1076149,
+      "crc32": 2837147326,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "REGIO DECRETO",
+      "data_emanazione": "19411218",
+      "numero": "1368",
+      "file_originale": "REGIO DECRETO_19411218_1368/1941-12-24_041U1368_ORIGINALE_V0.json",
+      "byte": 298716,
+      "crc32": 1697884825,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "REGIO DECRETO",
+      "data_emanazione": "19410220",
+      "numero": "303",
+      "file_originale": "REGIO DECRETO_19410220_303/1941-05-06_041U0303_ORIGINALE_V0.json",
+      "byte": 997752,
+      "crc32": 2292561562,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "REGIO DECRETO",
+      "data_emanazione": "19410909",
+      "numero": "1023",
+      "file_originale": "REGIO DECRETO_19410909_1023/1941-09-27_041U1023_ORIGINALE_V0.json",
+      "byte": 68731,
+      "crc32": 2301450056,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "REGIO DECRETO",
+      "data_emanazione": "19420316",
+      "numero": "262",
+      "file_originale": "REGIO DECRETO_19420316_262/1942-04-04_042U0262_ORIGINALE_V0.json",
+      "byte": 3588388,
+      "crc32": 1606489720,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "REGIO DECRETO",
+      "data_emanazione": "19420330",
+      "numero": "318",
+      "file_originale": "REGIO DECRETO_19420330_318/1942-04-17_042U0318_ORIGINALE_V0.json",
+      "byte": 317462,
+      "crc32": 3190257299,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "REGIO DECRETO",
+      "data_emanazione": "19420330",
+      "numero": "327",
+      "file_originale": "REGIO DECRETO_19420330_327/1942-04-18_042U0327_ORIGINALE_V0.json",
+      "byte": 1688495,
+      "crc32": 1560930088,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+      "data_emanazione": "19520215",
+      "numero": "328",
+      "file_originale": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19520215_328/1952-04-21_052U0328_ORIGINALE_V0.json",
+      "byte": 772889,
+      "crc32": 457918322,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+      "data_emanazione": "19730329",
+      "numero": "156",
+      "file_originale": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19730329_156/1973-05-03_073U0156_ORIGINALE_V0.json",
+      "byte": 594244,
+      "crc32": 4162634474,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+      "data_emanazione": "19880922",
+      "numero": "447",
+      "file_originale": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_ORIGINALE_V0.json",
+      "byte": 1147417,
+      "crc32": 1290144536,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "19890728",
+      "numero": "271",
+      "file_originale": "DECRETO LEGISLATIVO_19890728_271/1989-08-05_089G0340_ORIGINALE_V0.json",
+      "byte": 371015,
+      "crc32": 3869676577,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO",
+      "data_emanazione": "19890930",
+      "numero": "334",
+      "file_originale": "DECRETO_19890930_334/1989-10-05_089G0411_ORIGINALE_V0.json",
+      "byte": 66940,
+      "crc32": 3490406903,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "19920430",
+      "numero": "285",
+      "file_originale": "DECRETO LEGISLATIVO_19920430_285/1992-05-18_092G0306_ORIGINALE_V0.json",
+      "byte": 2699788,
+      "crc32": 3042585908,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+      "data_emanazione": "19921216",
+      "numero": "495",
+      "file_originale": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19921216_495/1992-12-28_092G0531_ORIGINALE_V0.json",
+      "byte": 1193646,
+      "crc32": 946616893,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "19921231",
+      "numero": "546",
+      "file_originale": "DECRETO LEGISLATIVO_19921231_546/1993-01-13_093G0007_ORIGINALE_V0.json",
+      "byte": 355979,
+      "crc32": 156767785,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20030630",
+      "numero": "196",
+      "file_originale": "DECRETO LEGISLATIVO_20030630_196/2003-07-29_003G0218_ORIGINALE_V0.json",
+      "byte": 1234053,
+      "crc32": 3840743423,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20030801",
+      "numero": "259",
+      "file_originale": "DECRETO LEGISLATIVO_20030801_259/2003-09-15_003G0280_ORIGINALE_V0.json",
+      "byte": 1734758,
+      "crc32": 3514897894,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20040122",
+      "numero": "42",
+      "file_originale": "DECRETO LEGISLATIVO_20040122_42/2004-02-24_004G0066_ORIGINALE_V0.json",
+      "byte": 808688,
+      "crc32": 1303111404,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20050210",
+      "numero": "30",
+      "file_originale": "DECRETO LEGISLATIVO_20050210_30/2005-03-04_005G0055_ORIGINALE_V0.json",
+      "byte": 2911810,
+      "crc32": 1927002567,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO",
+      "data_emanazione": "20100113",
+      "numero": "33",
+      "file_originale": "DECRETO_20100113_33/2010-03-09_010G0044_ORIGINALE_V0.json",
+      "byte": 244046,
+      "crc32": 4244801130,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20050307",
+      "numero": "82",
+      "file_originale": "DECRETO LEGISLATIVO_20050307_82/2005-05-16_005G0104_ORIGINALE_V0.json",
+      "byte": 418089,
+      "crc32": 3205189796,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20050718",
+      "numero": "171",
+      "file_originale": "DECRETO LEGISLATIVO_20050718_171/2005-08-31_005G0200_ORIGINALE_V0.json",
+      "byte": 478387,
+      "crc32": 744314115,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20050906",
+      "numero": "206",
+      "file_originale": "DECRETO LEGISLATIVO_20050906_206/2005-10-08_005G0232_ORIGINALE_V0.json",
+      "byte": 713509,
+      "crc32": 4263268282,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20050907",
+      "numero": "209",
+      "file_originale": "DECRETO LEGISLATIVO_20050907_209/2005-10-13_005G0233_ORIGINALE_V0.json",
+      "byte": 2940685,
+      "crc32": 3912386249,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20060403",
+      "numero": "152",
+      "file_originale": "DECRETO LEGISLATIVO_20060403_152/2006-04-14_006G0171_ORIGINALE_V0.json",
+      "byte": 3820473,
+      "crc32": 906192666,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20230331",
+      "numero": "36",
+      "file_originale": "DECRETO LEGISLATIVO_20230331_36/2023-03-31_23G00044_ORIGINALE_V0.json",
+      "byte": 2711549,
+      "crc32": 3609614399,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20160418",
+      "numero": "50",
+      "file_originale": "DECRETO LEGISLATIVO_20160418_50/2016-04-19_16G00062_ORIGINALE_V0.json",
+      "byte": 3354879,
+      "crc32": 3106993554,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20060412",
+      "numero": "163",
+      "file_originale": "DECRETO LEGISLATIVO_20060412_163/2006-05-02_006G0184_ORIGINALE_V0.json",
+      "byte": 2491718,
+      "crc32": 3821529566,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA",
+      "data_emanazione": "20101005",
+      "numero": "207",
+      "file_originale": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20101005_207/2010-12-10_010G0226_ORIGINALE_V0.json",
+      "byte": 2556849,
+      "crc32": 823379655,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20060411",
+      "numero": "198",
+      "file_originale": "DECRETO LEGISLATIVO_20060411_198/2006-05-31_006G0216_ORIGINALE_V0.json",
+      "byte": 309103,
+      "crc32": 2950903963,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20100315",
+      "numero": "66",
+      "file_originale": "DECRETO LEGISLATIVO_20100315_66/2010-05-08_010G0089_ORIGINALE_V0.json",
+      "byte": 32944059,
+      "crc32": 1727211819,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20100702",
+      "numero": "104",
+      "file_originale": "DECRETO LEGISLATIVO_20100702_104/2010-07-07_010G0127_ORIGINALE_V0.json",
+      "byte": 1103394,
+      "crc32": 4238533837,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20110523",
+      "numero": "79",
+      "file_originale": "DECRETO LEGISLATIVO_20110523_79/2011-06-06_011G0123_ORIGINALE_V0.json",
+      "byte": 516394,
+      "crc32": 1461254081,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20110906",
+      "numero": "159",
+      "file_originale": "DECRETO LEGISLATIVO_20110906_159/2011-09-28_011G0201_ORIGINALE_V0.json",
+      "byte": 990516,
+      "crc32": 3374043445,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20160826",
+      "numero": "174",
+      "file_originale": "DECRETO LEGISLATIVO_20160826_174/2016-09-07_16G00187_ORIGINALE_V0.json",
+      "byte": 742082,
+      "crc32": 1064395056,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20170703",
+      "numero": "117",
+      "file_originale": "DECRETO LEGISLATIVO_20170703_117/2017-08-02_17G00128_ORIGINALE_V0.json",
+      "byte": 1009716,
+      "crc32": 791240433,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20180102",
+      "numero": "1",
+      "file_originale": "DECRETO LEGISLATIVO_20180102_1/2018-01-22_18G00011_ORIGINALE_V0.json",
+      "byte": 476433,
+      "crc32": 2009703567,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20190112",
+      "numero": "14",
+      "file_originale": "DECRETO LEGISLATIVO_20190112_14/2019-02-14_19G00007_ORIGINALE_V0.json",
+      "byte": 1372120,
+      "crc32": 3377808123,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    },
+    {
+      "tipo_originale": "DECRETO LEGISLATIVO",
+      "data_emanazione": "20251127",
+      "numero": "184",
+      "file_originale": "DECRETO LEGISLATIVO_20251127_184/2025-12-10_25G00192_ORIGINALE_V0.json",
+      "byte": 378500,
+      "crc32": 3719989790,
+      "archivio_sha256": "8fd64e7dd1325913930782d8d347d88fbc6c6bb9974402b465e022582a15082d",
+      "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/download/collection-preconfezionata?nome=Codici&formato=JSON&formatoRichiesta=O"
+    }
+  ]
+}
