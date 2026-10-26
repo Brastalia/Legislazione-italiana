@@ -1,0 +1,384 @@
+{
+  "fonte": "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1/collections/collection-predefinite",
+  "aggiornato_utc": "2026-10-26T13:34:50.984895+00:00",
+  "collezioni": [
+    {
+      "nomeCollezione": "Atti di attuazione Regolamenti UE",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 39
+    },
+    {
+      "nomeCollezione": "Atti di attuazione Regolamenti UE",
+      "formatoCollezione": "M",
+      "descrizioneFormatoCollezione": "MULTIVIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 39
+    },
+    {
+      "nomeCollezione": "Atti di attuazione Regolamenti UE",
+      "formatoCollezione": "V",
+      "descrizioneFormatoCollezione": "VIGENTE",
+      "dataCreazione": "2026-10-04",
+      "numeroAtti": 39
+    },
+    {
+      "nomeCollezione": "Atti di recepimento direttive UE",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-09-26",
+      "numeroAtti": 1093
+    },
+    {
+      "nomeCollezione": "Atti di recepimento direttive UE",
+      "formatoCollezione": "V",
+      "descrizioneFormatoCollezione": "VIGENTE",
+      "dataCreazione": "2026-09-27",
+      "numeroAtti": 1093
+    },
+    {
+      "nomeCollezione": "Atti normativi abrogati (in originale)",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 124045
+    },
+    {
+      "nomeCollezione": "Codici",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 40
+    },
+    {
+      "nomeCollezione": "DL decaduti",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 1735
+    },
+    {
+      "nomeCollezione": "DL decaduti",
+      "formatoCollezione": "M",
+      "descrizioneFormatoCollezione": "MULTIVIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 1735
+    },
+    {
+      "nomeCollezione": "DL decaduti",
+      "formatoCollezione": "V",
+      "descrizioneFormatoCollezione": "VIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 1735
+    },
+    {
+      "nomeCollezione": "DL e leggi di conversione",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-07",
+      "numeroAtti": 7441
+    },
+    {
+      "nomeCollezione": "DL e leggi di conversione",
+      "formatoCollezione": "M",
+      "descrizioneFormatoCollezione": "MULTIVIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 7443
+    },
+    {
+      "nomeCollezione": "DL e leggi di conversione",
+      "formatoCollezione": "V",
+      "descrizioneFormatoCollezione": "VIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 7443
+    },
+    {
+      "nomeCollezione": "DL proroghe",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 75
+    },
+    {
+      "nomeCollezione": "DL proroghe",
+      "formatoCollezione": "M",
+      "descrizioneFormatoCollezione": "MULTIVIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 75
+    },
+    {
+      "nomeCollezione": "DL proroghe",
+      "formatoCollezione": "V",
+      "descrizioneFormatoCollezione": "VIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 75
+    },
+    {
+      "nomeCollezione": "DPCM",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 363
+    },
+    {
+      "nomeCollezione": "DPCM",
+      "formatoCollezione": "M",
+      "descrizioneFormatoCollezione": "MULTIVIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 363
+    },
+    {
+      "nomeCollezione": "DPCM",
+      "formatoCollezione": "V",
+      "descrizioneFormatoCollezione": "VIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 363
+    },
+    {
+      "nomeCollezione": "DPR",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 47762
+    },
+    {
+      "nomeCollezione": "DPR",
+      "formatoCollezione": "V",
+      "descrizioneFormatoCollezione": "VIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 47762
+    },
+    {
+      "nomeCollezione": "Decreti Legislativi",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 2934
+    },
+    {
+      "nomeCollezione": "Decreti legislativi luogotenenziali",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 1215
+    },
+    {
+      "nomeCollezione": "Decreti legislativi luogotenenziali",
+      "formatoCollezione": "M",
+      "descrizioneFormatoCollezione": "MULTIVIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 1215
+    },
+    {
+      "nomeCollezione": "Decreti legislativi luogotenenziali",
+      "formatoCollezione": "V",
+      "descrizioneFormatoCollezione": "VIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 1215
+    },
+    {
+      "nomeCollezione": "Leggi contenenti deleghe",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 81
+    },
+    {
+      "nomeCollezione": "Leggi contenenti deleghe",
+      "formatoCollezione": "M",
+      "descrizioneFormatoCollezione": "MULTIVIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 81
+    },
+    {
+      "nomeCollezione": "Leggi contenenti deleghe",
+      "formatoCollezione": "V",
+      "descrizioneFormatoCollezione": "VIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 81
+    },
+    {
+      "nomeCollezione": "Leggi costituzionali",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 50
+    },
+    {
+      "nomeCollezione": "Leggi costituzionali",
+      "formatoCollezione": "M",
+      "descrizioneFormatoCollezione": "MULTIVIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 50
+    },
+    {
+      "nomeCollezione": "Leggi costituzionali",
+      "formatoCollezione": "V",
+      "descrizioneFormatoCollezione": "VIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 50
+    },
+    {
+      "nomeCollezione": "Leggi delega e relativi provvedimenti delegati",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 1163
+    },
+    {
+      "nomeCollezione": "Leggi di delegazione europea",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 32
+    },
+    {
+      "nomeCollezione": "Leggi di delegazione europea",
+      "formatoCollezione": "M",
+      "descrizioneFormatoCollezione": "MULTIVIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 32
+    },
+    {
+      "nomeCollezione": "Leggi di delegazione europea",
+      "formatoCollezione": "V",
+      "descrizioneFormatoCollezione": "VIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 32
+    },
+    {
+      "nomeCollezione": "Leggi di ratifica",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 2336
+    },
+    {
+      "nomeCollezione": "Leggi di ratifica",
+      "formatoCollezione": "M",
+      "descrizioneFormatoCollezione": "MULTIVIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 2336
+    },
+    {
+      "nomeCollezione": "Leggi di ratifica",
+      "formatoCollezione": "V",
+      "descrizioneFormatoCollezione": "VIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 2336
+    },
+    {
+      "nomeCollezione": "Leggi finanziarie e di bilancio",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 58
+    },
+    {
+      "nomeCollezione": "Regi decreti",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 91346
+    },
+    {
+      "nomeCollezione": "Regi decreti",
+      "formatoCollezione": "M",
+      "descrizioneFormatoCollezione": "MULTIVIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 91346
+    },
+    {
+      "nomeCollezione": "Regi decreti legislativi",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 120
+    },
+    {
+      "nomeCollezione": "Regi decreti legislativi",
+      "formatoCollezione": "M",
+      "descrizioneFormatoCollezione": "MULTIVIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 120
+    },
+    {
+      "nomeCollezione": "Regi decreti legislativi",
+      "formatoCollezione": "V",
+      "descrizioneFormatoCollezione": "VIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 120
+    },
+    {
+      "nomeCollezione": "Regolamenti di delegificazione",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 376
+    },
+    {
+      "nomeCollezione": "Regolamenti di delegificazione",
+      "formatoCollezione": "M",
+      "descrizioneFormatoCollezione": "MULTIVIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 376
+    },
+    {
+      "nomeCollezione": "Regolamenti di delegificazione",
+      "formatoCollezione": "V",
+      "descrizioneFormatoCollezione": "VIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 376
+    },
+    {
+      "nomeCollezione": "Regolamenti governativi",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 1944
+    },
+    {
+      "nomeCollezione": "Regolamenti governativi",
+      "formatoCollezione": "M",
+      "descrizioneFormatoCollezione": "MULTIVIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 1944
+    },
+    {
+      "nomeCollezione": "Regolamenti governativi",
+      "formatoCollezione": "V",
+      "descrizioneFormatoCollezione": "VIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 1944
+    },
+    {
+      "nomeCollezione": "Regolamenti ministeriali",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 2079
+    },
+    {
+      "nomeCollezione": "Regolamenti ministeriali",
+      "formatoCollezione": "M",
+      "descrizioneFormatoCollezione": "MULTIVIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 2079
+    },
+    {
+      "nomeCollezione": "Regolamenti ministeriali",
+      "formatoCollezione": "V",
+      "descrizioneFormatoCollezione": "VIGENTE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 2079
+    },
+    {
+      "nomeCollezione": "Testi Unici",
+      "formatoCollezione": "O",
+      "descrizioneFormatoCollezione": "ORIGINALE",
+      "dataCreazione": "2026-10-26",
+      "numeroAtti": 257
+    }
+  ]
+}
